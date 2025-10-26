@@ -29,4 +29,4 @@
 25. grid-template-columns: 75px 3fr 2fr;
 26. grid-template-rows:50px 0 0 0 1fr;
 27. grid-template: 60% 40%/ 200px 500px;
-28. grid: 1fr 0% 50px/1fr 80%; 
+28. grid: 1fr 0% 50px/1fr 80%;

@@ -13,7 +13,7 @@ function handleSearch() {
     return;
   }
 
-  // Filter characters whose names include the search term
+  // Filter characters whose names include the search term:
   const matches = characters.filter((char) =>
     char.name.toLowerCase().includes(query)
   );
