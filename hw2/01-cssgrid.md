@@ -1,4 +1,4 @@
-## Exercise 02 - CSS Grid
+## Exercise 02 - CSS Grid (layaal)
 
 1. grid-column-start: 3;
 2. grid-column-start: 5;
